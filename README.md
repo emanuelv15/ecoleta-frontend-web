@@ -24,8 +24,8 @@
 </div>
 
 <ul>
-  <li href="https://github.com/sartero/ecoleta-backend">Backend</li>
-  <li href="https://github.com/sartero/ecoleta-frontend-mobile">Frontend Mobile</li>
+  <li><a href="https://github.com/sartero/ecoleta-backend">Backend</a></li>
+  <li><a href="https://github.com/sartero/ecoleta-frontend-mobile">Frontend Mobile</a></li>
 </ul>
 
 ## 🧰 Techs
