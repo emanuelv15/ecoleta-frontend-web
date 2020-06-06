@@ -23,6 +23,11 @@
   <img src=".github/home-ecoleta-web.png" alt="Home" height="425">
 </div>
 
+<ul>
+  <li href="https://github.com/sartero/ecoleta-backend">Backend</li>
+  <li href="https://github.com/sartero/ecoleta-frontend-mobile">Frontend Mobile</li>
+</ul>
+
 ## 🧰 Techs
 
 [//]: # "Add the features of your project here:"
